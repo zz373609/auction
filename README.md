@@ -38,6 +38,10 @@
 
 每参加一次竞拍前，都需要同意一份协议书
 
+[任务列表进度](https://github.com/zz373609/auction/projects/1)
+
+
+
 
 
 
